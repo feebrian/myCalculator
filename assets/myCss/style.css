@@ -1,0 +1,20 @@
+/* global styling */
+.mg-t {
+  margin-top: 1.25em;
+}
+
+.mg-t5 {
+  margin-top: 5em;
+}
+
+.mg-b {
+  margin-bottom: 0.5em;
+}
+
+.mg-s {
+  margin-right: 0.5em;
+}
+
+.mg-e {
+  margin-left: 1.25em;
+}
